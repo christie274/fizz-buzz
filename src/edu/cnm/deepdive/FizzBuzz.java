@@ -15,7 +15,7 @@ public class FizzBuzz {
     if(counterIsFizz) {
      status += "fizz";
    }
-    if (counterIsBuzz) {
+     if (counterIsBuzz) {
      status += "buzz";
    }
     if (status.isEmpty()) {
